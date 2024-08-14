@@ -87,7 +87,7 @@ nav.navbar.navbar-expand-lg.sticky-top.scrolled_customs {
 
 /* HERO SECTION */
 #Home {
-    background-image: url(/assets/imgs/Hero.png);
+    background-image: url(../assets/imgs/Hero.png);
     background-size: cover;
     background-position: center top;
     padding: 15% 6% 13% 6%;
@@ -223,7 +223,7 @@ nav.navbar.navbar-expand-lg.sticky-top.scrolled_customs {
 }
 
 .our_services_box_customs {
-    background-image: url(/assets/imgs/services.jpg);
+    background-image: url(../assets/imgs/services.jpg);
     background-repeat: no-repeat;
     border-radius: 50px 50px 0px 50px;
     position: relative;
@@ -330,7 +330,7 @@ nav.navbar.navbar-expand-lg.sticky-top.scrolled_customs {
 /* AFTER BEFORE */
 .before_after {
     position: relative;
-    width: 600px; /* Adjust as needed */
+    width: 600px;
     margin: 0 auto;
   }
   
@@ -731,7 +731,7 @@ nav.navbar.navbar-expand-lg.sticky-top.scrolled_customs {
 /* TESTIMONIALS SECTION */
 #Testimonials {
     padding: 6% 6% 6% 6%;
-    background-image: url(/assets/imgs/testimonials.jpg);
+    background-image: url(../assets/imgs/testimonials.jpg);
     background-size: cover;
     background-position: center top;
     position: relative;
